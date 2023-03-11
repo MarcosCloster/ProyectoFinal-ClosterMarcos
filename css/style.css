@@ -1,0 +1,40 @@
+.bg-red{
+
+    background-color: black;
+
+}
+.bg-white{
+
+    background-color: white;
+
+}
+.list-group-item{
+
+    --bs-list-group-bg: transparent;
+
+}
+
+.fa-brands:hover{
+
+    --bs-text-opacity: 1;
+    color: rgb(0, 217, 255) !important;
+
+}
+
+.card{
+
+    margin: 10px;
+
+}
+
+.skills h2{
+
+    margin: 10px;
+
+}
+
+.skills h4{
+
+    text-align: center;
+
+}
