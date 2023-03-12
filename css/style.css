@@ -44,3 +44,22 @@
     margin-left: 14px;
 
 }
+
+.hola{
+
+    position:relative;
+
+
+}
+
+.fotoperfil{
+    width: 10rem;
+    /*
+    position: absolute;
+    z-index: 1;
+    display: block;
+    top: 100px;
+    left: -100px;
+    width: 40%;
+    */
+}
