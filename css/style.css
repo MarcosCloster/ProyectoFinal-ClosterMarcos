@@ -45,21 +45,39 @@
 
 }
 
-.hola{
+.banner{
 
     position:relative;
-
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
-.fotoperfil{
-    width: 10rem;
-    /*
+.superpuesta {
     position: absolute;
-    z-index: 1;
-    display: block;
-    top: 100px;
-    left: -100px;
-    width: 40%;
-    */
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    width: 19vw;
+
+}
+.editFotoPerfil{
+
+    margin: 0px;
+
+}
+
+.bienvenidos{
+
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5vw;
+    font-family: 'Manrope', 'Kanit', sans-serif;
+    color: black;
+
+
 }
